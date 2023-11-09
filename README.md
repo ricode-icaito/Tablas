@@ -1,2 +1,2 @@
 # Tablas
-Tablas de multiplicar
+Tablas con codigo
