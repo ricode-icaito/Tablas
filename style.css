@@ -1,0 +1,15 @@
+th {
+  background-color: gray;
+}
+
+tr {
+  background-color: blue;
+}
+
+td {
+  color: white;
+}
+
+tr td {
+  text-align: center;
+}
